@@ -79,7 +79,7 @@ Design it completely and scalable Ranking System
 - Design flight system
 - Design Tinder
 - Design survey site like surveymonkey
-- Design a geographically partitioned multi-player card game, that supports multiple players, multiple games at a time. Each game will have one contractor like ones we have in a bar, He can play a game or just watch it. Integrate payment systems
+- Design a geographically partitioned multi-player card game, that support multiple players, multiple games at a time. Each game will have one contractor like ones we have in a bar, He can play a game or just watch it. Integrate payment systems
 - Design a kind of kindle fire application where we can subscribe news channel and read the news from all publishers as a digital format
 - Design a realtime Video chat like Google Duo
 - Design News paper & Magazine subscription system
@@ -91,7 +91,7 @@ Design it completely and scalable Ranking System
 - Design a conference room booking system for a company which can have offices in multiple cities, each city can have multiple buildings, each building can have multiple floors, each floor can have multiple rooms. Each room can have features like capacitiy, video conferencing available, etc.
 - Design newsfeed feature of Facebook
 - Design an efficient Mail delivery system
-- Design like/dislike feature at Youtube scale.
+- Design like/dislike feature of Youtube at scale.
 - Design Paypal
 - Design Air traffic control system
 - Design a realtime service which tells your friends who is online
